@@ -81,7 +81,3 @@ Summary measures such as counts, averages and medians simplify the data and do n
 The visualisations are intended to communicate the data accurately and without overstating the findings. Chart titles, axis labels and explanatory text are used to make the measures clear to the reader.
 
 Relationships shown in scatter plots are described as associations rather than causal effects. Product comparisons are also limited to the variables contained in the dataset and are not presented as overall judgements about brand or product quality.
-
-## AI Declaration
-
-To be completed before submission.
